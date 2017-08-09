@@ -27,8 +27,8 @@ main {
 }
 
 img {
-  width: 100px;
-  height: auto;
+  width: auto;
+  height: 100px;
 }
 
 a {
