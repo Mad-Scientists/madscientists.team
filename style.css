@@ -26,6 +26,11 @@ main {
   justify-content: space-between;
 }
 
+img {
+  width: 100px;
+  height: auto;
+}
+
 a {
   color: orange;
   text-decoration: none;
