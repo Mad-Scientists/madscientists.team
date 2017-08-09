@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+  width: 97vw;
+  background: #333333;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Hind', sans-serif;
+}
+
+main {
+  text-align: center;
+}
+
+.team {
+  width: 300px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  color: orange;
+  text-decoration: none;
+}
